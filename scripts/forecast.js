@@ -1,4 +1,6 @@
-const key = '0xGY0xGuwgik3srKabTIKBTaZW1AXMFG'
+//key attained from https://developer.accuweather.com/
+
+const key = ''
 
 //get city information
 const getCity = async (city) => {
